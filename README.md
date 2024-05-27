@@ -23,19 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Não podemos deixar de fora a Segurança da Informação no conceito da AI Generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa ElevenLabs para clonagem e sintetização de voz;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Trabalhei com podcast, usando o ChatGPT para desenvolver o roteiro e a narração. Toda a narração foi convertida em voz no ElevenLabs para concientizar a importância da segurança digital.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Observe como ficou cenário do podcast criado https://github.com/JefersonFdaS/lab-natty-or-not/blob/0377c308f13bb6593cd464f7a946aee108d68576/PODCAST_JEFERSON_FERREIRA.mp3
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com simples comando utilizando inteligência artificial foi possível desenvolver material. Como reconhecer o conteúdo gerado por IA em comparação com o criado por humanos?!
 ```
 
 ### Exemplos e Insigths

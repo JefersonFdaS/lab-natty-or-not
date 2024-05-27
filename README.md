@@ -30,13 +30,13 @@ IA Generativa ChatGPT para roteirização;
 IA Generativa ElevenLabs para clonagem e sintetização de voz;
 
 ## 🧐 Processo de Criação
-Trabalhei com podcast, usando o ChatGPT para desenvolver o roteiro e a narração. Toda a narração foi convertida em voz no ElevenLabs para concientizar a importância da segurança digital.
+Busquei no ChatGPT conteúdo sobre a importância da segurança da informação no conceito da AI Generativa. Toda a narração foi convertida em voz no ElevenLabs para concientizar a importância da segurança digital.
 
 ## 🚀 Resultados
-Observe como ficou cenário do podcast criado https://github.com/JefersonFdaS/lab-natty-or-not/blob/0377c308f13bb6593cd464f7a946aee108d68576/PODCAST_JEFERSON_FERREIRA.mp3
+Apresento o resultado final em podcast https://github.com/JefersonFdaS/lab-natty-or-not/blob/0377c308f13bb6593cd464f7a946aee108d68576/PODCAST_JEFERSON_FERREIRA.mp3
 
 ## 💭 Reflexão (Opcional)
-Com simples comando utilizando inteligência artificial foi possível desenvolver material. Como reconhecer o conteúdo gerado por IA em comparação com o criado por humanos?!
+Natural ou Fake Natty ?! Como diferenciar a voz utilizado Inteligência artifical da voz humanos.
 ```
 
 ### Exemplos e Insigths
